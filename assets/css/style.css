@@ -1,0 +1,10 @@
+.container-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: black;
+}
+.img-wikipedia{
+width: 40%;
+}
